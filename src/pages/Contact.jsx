@@ -10,4 +10,4 @@ export default function Contact() {
       </p>
     </section>
   );
-}
+} 
