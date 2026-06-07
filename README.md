@@ -1,4 +1,4 @@
-# 🎀 Trivia React - Quiz
+# Trivia React - Quiz
 
 Aplicación SPA desarrollada con **React 19** y **Vite** que consume datos desde la API pública **Open Trivia DB**. El proyecto presenta preguntas de trivia con una interfaz que utiliza colores pastel, componentes modernos y navegación entre rutas.
 
